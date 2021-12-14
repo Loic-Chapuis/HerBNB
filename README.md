@@ -14,4 +14,3 @@ This project was created before the ending project of our batch(#732) at Le Wago
 
 (notice: the website is on Herokuapp, so it may takes a few seconds to load the page.)
 
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
